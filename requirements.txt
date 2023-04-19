@@ -1,0 +1,3 @@
+schedule
+secure-smtplib
+requests
